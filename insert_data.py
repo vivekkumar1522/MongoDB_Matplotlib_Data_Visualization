@@ -14,4 +14,4 @@ sales_data = [
     {"date": "2025-05-22", "category": "Electronics", "branch": "A", "sales": 300},
 ]
 collection.insert_many(sales_data)
-print("✅ New data with 'category' field inserted successfully!")
+print("✅ New data inserted successfully!")
